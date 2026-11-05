@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "자료를 쓰실 때는 아래 논문과 이 저장소를 함께 인용해 주십시오. / If you use this dataset, please cite the paper below and this repository."
+type: dataset
+title: "sishi-zhiming: 前四史 ‘知名’ 용례 콘코던스 (A concordance of zhiming 知名 in the First Four Standard Histories)"
+authors:
+  - family-names: Park
+    given-names: Sumin
+    affiliation: Department of Linguistics, Seoul National University
+    email: mam3b@snu.ac.kr
+date-released: 2026-11-06
+version: 1.0.0
+repository-code: https://github.com/suparklingmin/sishi-zhiming
+license: CC0-1.0
+keywords:
+  - zhiming 知名
+  - First Four Standard Histories
+  - historians' narrative
+  - verb-object phrase
+  - patient-subject construction
+  - formulaic expression
+  - register
+  - Classical Chinese
+  - concordance
+preferred-citation:
+  type: article
+  title: "前四史 사관 서술에 나타난 ‘知名’의 분포 양상과 정형구화 (Zhiming 知名 in the First Four Standard Histories: Distribution and Formulaic Use in the Historians’ Narrative)"
+  authors:
+    - family-names: Park
+      given-names: Sumin
+  journal: "中國文學 (Chinese Literature)"
+  publisher:
+    name: "한국중국어문학회 (Korean Society for Chinese Language and Literature)"
+  year: 2026
+  # TODO: 게재 뒤 輯 번호·쪽수를 채울 것 (volume / start / end)

@@ -1,0 +1,8 @@
+number,id,preceding,target,following,chapter,is_fame,is_quote,phrase_type,complement,modificand
+1,ym01,謂其軍吏曰：「項氏世世將家，,有名,於楚。今欲舉大事，將非其人，不可。我倚名族，亡秦必矣。」,項羽本紀,TRUE,TRUE,predicative,於楚,
+2,ym02,其先曰伍舉，以直諫事楚莊王，有顯，故其後世,有名,於楚。,伍子胥列傳,TRUE,FALSE,predicative,於楚,
+3,ym03,為氣任俠，,有名,於楚。,季布欒布列傳,TRUE,FALSE,predicative,於楚,
+4,ym04,年少官薄，然其游知交皆其大父行，天下,有名,之士也。,汲鄭列傳,TRUE,FALSE,attributive,,士
+5,ym05,對曰：「用之,有名,；播之百姓，質諸鬼神而無憾。求之至於此道，雖累千社，夫子不利也。」,孔子世家,FALSE,TRUE,,,
+6,ym06,秦之攻韓、魏也，無有,名山,大川之限，稍蠶食之，傅國都而止。,蘇秦列傳,FALSE,TRUE,,,
+7,ym07,其俗,有名,不諱，而無姓字。,匈奴列傳,FALSE,FALSE,,,
