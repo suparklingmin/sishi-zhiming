@@ -1,6 +1,6 @@
 # sishi-zhiming — 前四史 ‘知名’ 용례 콘코던스
 
-논문 「前四史 사관 서술에 나타난 ‘知名’의 분포 양상과 정형구화」(박수민, 《中國文學》, 한국중국어문학회, 2026)의 부록 자료입니다. 中國 前四史(《史記》·《漢書》·《後漢書》·《三國志》 裴松之 注 포함)를 중심으로 선진부터 위진까지의 문헌에서 검색 문자열 ‘知名’의 전 용례 198건을 모아 구성성분 여부, 구 유형, 출전, 성립 연대, 전승 관계, 발화·인용 여부, 공기 요소를 주석한 것입니다.
+논문 「前四史 사관 서술에 나타난 ‘知名’의 분포 양상과 정형구화」(박수민, 《中國文學》, 한국중국어문학회, 2026)의 주석 자료입니다. 中國 前四史(《史記》·《漢書》·《後漢書》·《三國志》 裴松之 注 포함)를 중심으로 선진부터 위진까지의 문헌에서 검색 문자열 ‘知名’의 전 용례 198건을 모아 구성성분 여부, 구 유형, 출전, 성립 연대, 전승 관계, 발화·인용 여부, 공기 요소를 주석한 것입니다.
 
 *Supplementary data for “Zhiming 知名 in the First Four Standard Histories: Distribution and Formulaic Use in the Historians’ Narrative” (Park, Sumin, Chinese Literature 中國文學, 2026): a KWIC concordance of all 198 occurrences of the string 知名 in pre-Qin to Wei–Jin texts, chiefly the First Four Standard Histories, annotated for constituency, phrase type, source, date of composition, textual transmission, quoted-speech status, and co-occurring elements.*
 
@@ -8,7 +8,7 @@
 
 | 파일 | 내용 |
 |---|---|
-| `appendix-zhiming.xlsx` | 논문에 첨부한 부록. 시트: 설명(시트 목록·표기 규약·표준 필터 검산 수식) / 컬럼 정의 / 콘코던스(198) / 裴注 인용 문헌(32) / 後漢書 주어 시기(57) / 史記 有名(7). 아래 CSV와 같은 내용이며, 검산 수식으로 논문의 건수(198 → 187 → 173 → 168 → 158 → 145)를 직접 확인할 수 있다. |
+| `appendix-zhiming.xlsx` | 논문 2.3의 각주가 가리키는 주석 자료를 한 통합문서로 묶은 것. 시트: 설명(시트 목록·표기 규약·표준 필터 검산 수식) / 컬럼 정의 / 콘코던스(198) / 裴注 인용 문헌(32) / 後漢書 주어 시기(57) / 史記 有名(7). 아래 CSV와 같은 내용이며, 검산 수식으로 논문의 건수(198 → 187 → 173 → 168 → 158 → 145)를 직접 확인할 수 있다. |
 | `data/concordance.csv` | 콘코던스 198행. KWIC 3분할(`preceding`·`target`·`following`)과 주석 22열. |
 | `data/peizhu_source_genre.csv` | 《三國志》 裴注가 인용한 문헌 32종의 《隋書·經籍志》·《舊唐書·經籍志》 분류와 분석용 묶음(`genre_group`). `peizhu_source`를 키로 콘코던스에 병합한다. |
 | `data/hhs_subject_period.csv` | 《後漢書》 서술 층위 술어 57건의 주어 인물과 주된 활동 시기(桓帝 즉위 146년 기준). `id`를 키로 병합한다. |
