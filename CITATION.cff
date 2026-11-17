@@ -28,7 +28,8 @@ preferred-citation:
     - family-names: Park
       given-names: Sumin
   journal: "中國文學 (Chinese Literature)"
+  volume: 129
   publisher:
     name: "한국중국어문학회 (Korean Society for Chinese Language and Literature)"
   year: 2026
-  # TODO: 게재 뒤 輯 번호·쪽수를 채울 것 (volume / start / end)
+  # TODO: 게재 뒤 쪽수·DOI를 채울 것 (start / end / doi)

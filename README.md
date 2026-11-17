@@ -1,8 +1,8 @@
 # sishi-zhiming — 前四史 ‘知名’ 용례 콘코던스
 
-논문 「前四史 사관 서술에 나타난 ‘知名’의 분포 양상과 정형구화」(박수민, 《中國文學》, 한국중국어문학회, 2026)의 주석 자료입니다. 中國 前四史(《史記》·《漢書》·《後漢書》·《三國志》 裴松之 注 포함)를 중심으로 선진부터 위진까지의 문헌에서 검색 문자열 ‘知名’의 전 용례 198건을 모아 구성성분 여부, 구 유형, 출전, 성립 연대, 전승 관계, 발화·인용 여부, 공기 요소를 주석한 것입니다.
+논문 「前四史 사관 서술에 나타난 ‘知名’의 분포 양상과 정형구화」(박수민, 《中國文學》 第129輯, 한국중국어문학회, 2026)의 주석 자료입니다. 中國 前四史(《史記》·《漢書》·《後漢書》·《三國志》 裴松之 注 포함)를 중심으로 선진부터 위진까지의 문헌에서 검색 문자열 ‘知名’의 전 용례 198건을 모아 구성성분 여부, 구 유형, 출전, 성립 연대, 전승 관계, 발화·인용 여부, 공기 요소를 주석한 것입니다.
 
-*Supplementary data for “Zhiming 知名 in the First Four Standard Histories: Distribution and Formulaic Use in the Historians’ Narrative” (Park, Sumin, Chinese Literature 中國文學, 2026): a KWIC concordance of all 198 occurrences of the string 知名 in pre-Qin to Wei–Jin texts, chiefly the First Four Standard Histories, annotated for constituency, phrase type, source, date of composition, textual transmission, quoted-speech status, and co-occurring elements.*
+*Supplementary data for “Zhiming 知名 in the First Four Standard Histories: Distribution and Formulaic Use in the Historians’ Narrative” (Park, Sumin, Chinese Literature 中國文學 129, 2026): a KWIC concordance of all 198 occurrences of the string 知名 in pre-Qin to Wei–Jin texts, chiefly the First Four Standard Histories, annotated for constituency, phrase type, source, date of composition, textual transmission, quoted-speech status, and co-occurring elements.*
 
 ## 파일
 
@@ -43,7 +43,7 @@ print(len(narr))   # 158
 
 자료를 쓰실 때는 논문과 이 저장소를 함께 인용해 주십시오(`CITATION.cff` 참조).
 
-- 박수민(2026), 〈前四史 사관 서술에 나타난 ‘知名’의 분포 양상과 정형구화〉, 《中國文學》 第○○○輯, 한국중국어문학회.
+- 박수민(2026), 〈前四史 사관 서술에 나타난 ‘知名’의 분포 양상과 정형구화〉, 《中國文學》 第129輯, 한국중국어문학회.
 - 박수민(2026), sishi-zhiming: 前四史 ‘知名’ 용례 콘코던스, https://github.com/suparklingmin/sishi-zhiming.
 
 ## 라이선스
